@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Languages
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&logoColor=EC1C24)
+![C](https://img.shields.io/badge/-ANSI%20C-000000?style=flat-square&logo=c&logoColor=A8B9CC)
