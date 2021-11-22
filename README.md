@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat-square&logo=graphql&logoColor=E10098)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000000?style=flat-square&logo=mariadb&logoColor=003545)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 ### Workflow
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=F05032)
@@ -50,3 +50,7 @@ Here are some ideas to get you started:
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat-square&logo=archlinux&logoColor=1793D1)
 ![Gitkraken](https://img.shields.io/badge/-Gitkraken-000000?style=flat-square&logo=gitkraken&logoColor=179287)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+## Contact me
+
+[![Telegram](https://img.shields.io/badge/Telegram-luisresendiz734-000000?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/luisresendiz734)
